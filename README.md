@@ -7,8 +7,16 @@
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Adrianoasz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Araújo github stats" /> 
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianoasz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>  
+
+<div align="center">
+<a href="mailto:adrianodevcode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adriano-araujo27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"> 
+  </a>  
+</div>
+
   
-  ![Snake animation](https://github.com/AdrianoAraujjo/Adrianoasz/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/Adrianoasz/Adrianoasz/blob/output/github-contribution-grid-snake.svg)
+
   
  ### Minhas Skills
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
