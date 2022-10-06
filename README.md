@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6fea&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6fea&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6fea&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Adriano+Araújo;Tenho+38+anos;Sou+de+Guarulhos,+São+Paulo,+Brasil;SEJA+BEM+VINDO!)](https://git.io/typing-svg)
 
@@ -12,8 +12,7 @@
    <img aling="center" alt="Adriano CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img aling="center" alt="Adriano JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img aling="center" alt="Adriano REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >  
-   <img aling="center" alt="Adriano NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img aling="center" alt="Adriano FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+   <img aling="center" alt="Adriano NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">   
    <img aling="center" alt="Adriano PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
   </div>  
   
@@ -25,5 +24,5 @@
   </a>  
 </div>
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6fea&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6fea&height=120&section=footer"/>
 </div>
