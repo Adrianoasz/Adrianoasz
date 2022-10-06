@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6fea&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6fea&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Adriano+Araújo;Tenho+38+anos;Sou+de+Guarulhos,+São+Paulo,+Brasil;SEJA+BEM+VINDO!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6fea&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Adriano+Araújo;Tenho+38+anos;Sou+de+Guarulhos,+São+Paulo,+Brasil;Desenvolvedor+Front+End;SEJA+BEM+VINDO!)](https://git.io/typing-svg)
 
 <div align="center"> 
   <a href="https://github.com/Adrianoasz">
