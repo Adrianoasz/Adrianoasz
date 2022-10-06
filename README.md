@@ -2,9 +2,10 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6fea&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Adriano+Araújo;Tenho+38+anos;Sou+de+Guarulhos,+São+Paulo,+Brasil;SEJA+BEM+VINDO!)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adrianoasz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianoasz&layout=compact&langs_count=7&theme=github_dark"/>  
+<div align="center"> 
+  <a href="https://github.com/Adrianoasz">
+  <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=Adrianoasz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianoasz&layout=compact&langs_count=7&theme=onedark"/>  
 </div>
   
   <div style="display: inline_block"><br>
