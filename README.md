@@ -17,9 +17,8 @@
    <img aling="center" alt="Adriano REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >  
    <img aling="center" alt="Adriano NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img aling="center" alt="Adriano FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   <img aling="center" alt="Adriano PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+   <img aling="center" alt="Adriano PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   
-  ![Snake animation](https://github.com/Adrianoasz/Adrianoasz/blob/output/github-contribution-grid-snake.svg)
   
   </div> 
   
