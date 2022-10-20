@@ -26,5 +26,7 @@
   </a>  
 </div><br>
  
+ ![Snake animation](https://github.com/Adrianoasz/Adrianoasz/blob/output/github-contribution-grid-snake.svg)
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6fea&height=120&section=footer"/>
 </div>
